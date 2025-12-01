@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yhany — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights.  
+I'm Youssef hany — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights.  
 I work with real datasets to explore trends, clean data, visualize patterns, and help answer business questions using data.
 
 ### 🔍 What I Do
