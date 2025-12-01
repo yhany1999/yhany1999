@@ -76,7 +76,7 @@ I enjoy cleaning messy datasets, uncovering hidden patterns, and building dashbo
 
 ## 📫 How to Reach Me
 📧 **Email:** yhany1999@gmail.com  
-💼 **LinkedIn:** *(Add your link here)*  
+💼 **LinkedIn:** (https://www.linkedin.com/feed/)
 📂 **GitHub:** https://github.com/yhany1999
 
 ---
