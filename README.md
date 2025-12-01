@@ -1,9 +1,5 @@
-<!-- DATA ANALYST BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/vyQxk9Z.png" width="100%" alt="Data Analytics Banner"/>
-</p>
 
-<h1 align="center">Hi there 👋, I'm Yhany</h1>
+<h1 align="center">Hi there 👋, I'm Youssef hany</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | R Programming</h3>
 
 ---
@@ -90,9 +86,4 @@ I enjoy cleaning messy datasets, uncovering hidden patterns, and building dashbo
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/ZQZQ8QG.png" width="500px">
-</p>
-
----
 
