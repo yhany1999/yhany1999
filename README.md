@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**yhany1999/yhany1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yhany — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights.  
+I work with real datasets to explore trends, clean data, visualize patterns, and help answer business questions using data.
 
-Here are some ideas to get you started:
+### 🔍 What I Do
+- Analyze datasets using **Python (Pandas, NumPy, Matplotlib)**  
+- Build dashboards and visualizations with **Power BI & Spreadsheets**  
+- Write complex queries using **SQL**  
+- Perform **data cleaning, EDA, and statistical analysis**  
+- Work on projects related to **Marketing Analytics & Business Insights**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 I'm Currently Learning
+- Advanced SQL for analytics  
+- Data storytelling and dashboard design  
+- Marketing metrics and performance analysis  
+
+### 🤝 I'm Looking to Collaborate On
+- Data analysis projects  
+- Visualization dashboards  
+- Real-world datasets related to business or marketing  
+
+### 💬 Ask Me About
+- Data cleaning  
+- Exploratory data analysis (EDA)  
+- Statistical concepts  
+- Building a career in data analytics  
+
+### 📫 How to Reach Me
+- Email: yhany22599@gmail.com  
+- LinkedIn: (https://www.linkedin.com/feed/)
+
+### ⚡ Fun Fact
+I believe that **every dataset has a story** — and I enjoy discovering it.
